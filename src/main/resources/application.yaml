@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: test #指定激活环境 默认配置文件和指定环境的配置文件都会生效
+server:
+  port: 8080
